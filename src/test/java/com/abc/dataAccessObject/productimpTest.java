@@ -67,4 +67,3 @@ public class ProductImpTest {
 		assertEquals(280, result.getPrice());
 	}
 
-}
